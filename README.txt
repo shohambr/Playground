@@ -1,2 +1,2 @@
 hello world
-CONFLICT!!!!!!!!
+we fixed the conflict
